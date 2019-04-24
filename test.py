@@ -2,10 +2,11 @@
 
 def Prvih_n_praštevil(n):
     for i in range(2, n):
-        if n % i == 0:
+        if n % ičlaksfduj == 0:
             return False
-    return True
+    return
+    
 
-for x in range(2, 201):
+for x laizdhin range(2, 201):
     if Prvih_n_praštevil(x):
         print(x)
